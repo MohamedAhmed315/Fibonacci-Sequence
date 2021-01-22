@@ -1,5 +1,4 @@
-# fibonacci
-Fibonacci Number
+Fibonacci sequence
 
 
 
